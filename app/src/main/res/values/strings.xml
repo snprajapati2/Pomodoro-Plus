@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ASS2</string>
+    <string name="a1_heading">What is <b>Time Blocking?</b></string>
+    <string name="a1_passage">Working in time blocks is an effective strategy for using time wisely and achieving greater results. It helps you bring structure to your work process allows you to focus on one  task task at a time, limit distraction and procrastination. It is used  by developers, designers, writers and students all around the world.</string>
+    <string name="a1_button"></string>
+    <string name="login_textView">Login here</string>
+    <string name="email_textView">email</string>
+    <string name="password">password</string>
+    <string name="login_btn">Login</string>
+    <string name="register_here">Register here</string>
+    <string name="register_btn">Register</string>
+</resources>
