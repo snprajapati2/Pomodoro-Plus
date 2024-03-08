@@ -10,3 +10,5 @@ Key Concepts:
 2. UI/UX Design
 3. Task and Timer Management Algorithm
 4. Analysis for Productivity session
+
+![image](https://github.com/snprajapati2/Pomodoro-Plus/assets/97979527/eb218167-8ed6-4b98-a066-c71732bb6275)
